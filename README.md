@@ -1,1 +1,1 @@
-# Advanced-intrusion-detection-system
+# Advanced-intrusion-detection-system,create a directory and name it intrusion detection system, create a python file and name it app.py, create another directory name it templates, inside templates create a file name it as index.html, import all the nessary modules
